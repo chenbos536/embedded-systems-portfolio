@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+logs/
+.env
+Debug/
+Release/
+*.elf
+*.hex
+*.map
